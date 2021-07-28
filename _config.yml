@@ -1,8 +1,6 @@
 title: CamberWithinReason
 logo: /assets/img/logo_ss.png
-description: 
-"<span style='font-size: 30px'>Hello</style> <span style='font-size: 10px'>Everyone</style>"
-Car blogging effort.
+description: "<span style='font-size: 30px'>Hello</style> <span style='font-size: 10px'>Everyone</style>" Car blogging effort.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
