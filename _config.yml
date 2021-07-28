@@ -1,6 +1,6 @@
 title: CamberWithinReason
-logo: 
+logo: /assets/img/logo_ss.png
 description: Car blogging effort.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
